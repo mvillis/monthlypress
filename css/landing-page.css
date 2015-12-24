@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
@@ -43,6 +43,10 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+}
+
+.intro-message-small {
+    position: relative;
 }
 
 .intro-message > h1 {
